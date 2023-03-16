@@ -1,0 +1,31 @@
+[
+{
+    "productID": "KawasakiNinjaH2",
+    "productName": "Bike",
+    "price": 7900000 ,
+    "quantity": 3
+},
+{
+    "productID":"BMWRR1500",
+    "productName":"Bike",
+    "price": 500000 ,
+    "quantity": 2
+},
+{
+    "productID": "Redmi note 8 pro",
+    "productName": "Phone",
+    "price": 12000 ,
+    "quantity": 10
+},
+{
+    "productID": "Iphone 13 pro",
+    "productName": "phone",
+    "price": 100000 ,
+    "quantity": 5
+}
+
+
+
+
+
+]
